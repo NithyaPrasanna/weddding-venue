@@ -1,0 +1,22 @@
+.main{
+    font-style:italic;
+    text-transform: uppercase;
+    text-decoration:underline;
+}
+.nicky{
+    font-style:"italic";
+}
+
+.ma{
+    text-decoration: line-through;
+}
+body{
+    background-image:url(' ./admin/upload/gallery/wedback.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+
+}
+*{
+    font-family:'Times New Roman', Times, serif;
+}
